@@ -1,2 +1,2 @@
 # Motion-Detector
-Uses a Webcam and creates a box around the area of motion.
+Uses a pre recorded video or live Webcam feed as input. Detects motion and creates a bounding box around it.
